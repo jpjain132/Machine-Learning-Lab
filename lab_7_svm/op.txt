@@ -1,0 +1,5 @@
+Support Vectors:
+ [[1. 1.]
+ [2. 2.]]
+Hyperplane weights (w): [1. 1.]
+Intercept (b): -3.0

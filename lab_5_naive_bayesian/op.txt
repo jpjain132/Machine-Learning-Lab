@@ -1,0 +1,11 @@
+Dataset:
+    color   legs Height Smell Species
+0  white  Three  short   yes       m
+1  green    two   tall    no       m
+2  green  three  short   yes       m
+3  white  three  short    no       m
+4  green    two  short    no       h
+5  white    two   tall    no       h
+6  white    two   tall    no       h
+7  white    two  short   yes       h
+Accuracy: 50.0 %
