@@ -1,0 +1,11 @@
+Age,Gender,Chest Pain Type,Resting BP,Cholesterol,Fasting Blood Sugar,ECG Result,Max Heart Rate,Exercise Angina,ST Depression,Slope,Vessels,Thalassemia,Heart Disease
+63,Male,Typical Angina,145,233,TRUE,Normal,150,No,2.3,Downsloping,0,Fixed Defect,Yes
+37,Male,Non-anginal Pain,130,250,FALSE,ST-T Abnormality,187,No,3.5,Flat,0,Reversible Defect,Yes
+41,Female,Atypical Angina,130,204,FALSE,Normal,172,No,1.4,Upsloping,0,Reversible Defect,Yes
+56,Male,Atypical Angina,120,236,FALSE,ST-T Abnormality,178,No,0.8,Upsloping,0,Reversible Defect,Yes
+57,Female,Asymptomatic,120,354,FALSE,ST-T Abnormality,163,Yes,0.6,Upsloping,0,Reversible Defect,Yes
+57,Male,Asymptomatic,140,192,FALSE,ST-T Abnormality,148,No,0.4,Flat,0,Fixed Defect,No
+56,Female,Atypical Angina,140,294,FALSE,Normal,153,No,1.3,Flat,0,Reversible Defect,Yes
+44,Male,Atypical Angina,120,263,FALSE,ST-T Abnormality,173,No,0,Upsloping,0,Normal,Yes
+52,Male,Non-anginal Pain,172,199,TRUE,ST-T Abnormality,162,No,0.5,Upsloping,0,Normal,Yes
+57,Male,Non-anginal Pain,150,168,FALSE,ST-T Abnormality,174,No,1.6,Upsloping,0,Reversible Defect,Yes
